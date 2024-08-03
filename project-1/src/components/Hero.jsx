@@ -3,7 +3,7 @@ const Hero=()=>{
         <>
         <main className="hero container" >
             <div className="hero-content">
-                <h2>YOUR FEET DESERE THE BEST. AND WE ARE PROVIDING YOU WITH BEST SERVICES</h2>
+                <h2>YOUR FEET DESERE THE BEST</h2>
                 <p> AND WE ARE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WERE HERE TO HELP YOU WITH OUR SHOES.</p>
                 <div className="hero-btn">
                 <button>Shop Now</button>
